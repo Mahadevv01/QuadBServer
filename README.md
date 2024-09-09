@@ -12,6 +12,3 @@ This project demonstrates how to build, deploy, and manage a server on Render. T
 - Supports JSON responses
 - Hosted on Render
 
-## Setup and Installation
-
-To set up the project locally, follow these steps:
