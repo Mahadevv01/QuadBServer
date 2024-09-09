@@ -12,3 +12,15 @@ This project demonstrates how to build, deploy, and manage a server on Render. T
 - Supports JSON responses
 - Hosted on Render
 
+ # Deployment on Render
+The server is deployed on Render. You can access it at the following URL:
+
+Your Render Server URL
+
+## Deployment Steps
+Log in to your Render account.
+Create a new web service.
+Connect your repository.
+Choose the build and runtime settings.
+Deploy the service.
+
